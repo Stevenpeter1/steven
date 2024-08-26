@@ -1,0 +1,57 @@
+body{
+    font-family: Georgia, serif;
+    align-items: center;
+    background-color: rgba(47, 255, 238, 0.356);
+}
+div{
+   
+   border-radius: 15px;
+   width: 75%;
+   text-align: right;
+   word-spacing: 10px;
+   color: rgb(255, 255, 255); 
+   height: 25px;
+   margin: 10px 50px;
+   padding: 5px 100px;
+   text-align: center;
+
+}
+#pe{
+    color: white;
+    width: 450px;
+    margin: 0px 300px;
+    
+}
+input{
+    width: 400px;
+    border-radius: 7px;
+    padding-left: 40px;
+    
+}
+img{
+    width: 20%;
+    height: 20%;
+   
+    
+    
+   
+    
+}
+#arby{
+direction: rtl;
+}
+
+nav{
+    width: 100%;
+    height: fit-content;
+    
+}
+h1 , h2 , h3 , p{
+    text-shadow: 1px 1px 1px rgb(0, 0, 255);
+}
+a{
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+.search-container{
+    height: auto;
+}
